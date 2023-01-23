@@ -1,5 +1,5 @@
 {
-  "name": "testing",
+  "name": "sanity-studiov3-bug-repro-test",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
@@ -15,6 +15,7 @@
     "sanity"
   ],
   "dependencies": {
+    "@sanity/google-maps-input": "^3.0.1",
     "@sanity/vision": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
